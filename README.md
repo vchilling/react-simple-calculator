@@ -1,3 +1,13 @@
+Reactjs app created by command line.
+Simple calculator functionality:
+
+- 2 inputs only for numbers,
+- 4 actions: add, substract, multiply, divide,
+- clear button,
+- result can be marked and copied, can't be manipulated by input
+
+************************
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
