@@ -1,4 +1,4 @@
-Reactjs app created by command line.
+Reactjs app.
 Simple calculator functionality:
 
 - 2 inputs only for numbers,
